@@ -1,0 +1,1 @@
+return loadstring(game:HttpGet(string.format("https://raw.github.com/0zBug/%s/main/main.lua", ...)))()
